@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-#### Aluno do IFPB, Cajazeiras e Desenvolvedor Front-End.
+#### Cursando Analise e Desenvolvimenro de Sistemas no IFPB - Cajazeiras
 
