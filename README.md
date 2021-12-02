@@ -11,5 +11,4 @@
   
  <div>
     <a href="TheLuskera#4960"><img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-    <a href="mailto:lukasferreiradesousa098@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
  </div>
