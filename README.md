@@ -1,3 +1,3 @@
 
-#### Cursando Analise e Desenvolvimenro de Sistemas no IFPB - Cajazeiras
+#### Cursando Analise e Desenvolvimento de Sistemas no IFPB - Cajazeiras
 
