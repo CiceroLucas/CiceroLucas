@@ -9,6 +9,6 @@
 
 ##
   <div>
-    <a href = "mailto:lukasferreiradesousa890@gmail.com" target ="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href = "https://www.instagram.com/luscathefusca/" target ="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href = "mailto:lukasferreiradesousa890@gmail.com" target ="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"></a>
+    <a href = "https://www.instagram.com/luscathefusca/" target ="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
   </div>
