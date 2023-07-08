@@ -20,10 +20,10 @@
   ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
   
   ### Studying in this moment:
-![GitHub](https://img.shields.io/badge/-RUBY-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-DJANGO-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 
