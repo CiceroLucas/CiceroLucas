@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-Reactjs-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-DJANGO-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=render&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroLucas&theme=dark&hide_border=true)
 
