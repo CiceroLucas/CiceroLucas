@@ -28,7 +28,7 @@
   
   ### Studying in this moment:
 ![GitHub](https://img.shields.io/badge/-FASTAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Reactjs-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-DJANGO-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=render&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
