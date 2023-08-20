@@ -27,8 +27,9 @@
 ---
 
 <div align="right" style="margin:auto">
-  <div>  
-    <img width="400em"  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <div>   
+      
+
   </div>
 </div>
 
@@ -39,6 +40,7 @@ I'm a frontend developer with proficiency in various technologies and essential 
 I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Nodejs**, **Django**. I am also comfortable using Typescript and React.
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroLucas&theme=dark&hide_border=true)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <p align="center">Main Skills</p>
