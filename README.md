@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/twitter/follow/lucassousa2099?style=social&logo=instagram">
     </a>
     <a href="https://www.linkedin.com/in/lucas-sousa-410539271/">
-        <img src="https://img.shields.io/twitter/follow/lucas-sousa-410539271?style=social&logo=linkedin">
+        <img src="https://img.shields.io/twitter/follow/lucas-sousa?style=social&logo=linkedin">
     </a>
 </div>
 
