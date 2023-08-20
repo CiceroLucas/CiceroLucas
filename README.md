@@ -26,21 +26,18 @@
 
 ---
 
-<div align="right" style="margin:auto">
-  <div>   
-      
-
-  </div>
-</div>
-
 Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
 
 I'm a frontend developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. My passion for frontend is reflected in my ability to create engaging and user-friendly interfaces. I master **HTML**, **CSS**, and **JavaScript**, using these languages to bring to life attractive and responsive layouts that provide a consistent experience across different platforms and devices. I believe in the importance of uniting design and functionality, ensuring that users not only feel visually attracted but also have intuitive and smooth interactions.
 
 I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Nodejs**, **Django**. I am also comfortable using Typescript and React.
 
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroLucas&theme=dark&hide_border=true)
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+      <a href="https://github.com/GabriellaHuzyk">
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CiceroLucas&show_icons=true&theme=dark"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=compact&theme=dark"/>
+    </a>
+</div>
 
 </div>
 <p align="center">Main Skills</p>
