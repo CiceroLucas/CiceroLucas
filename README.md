@@ -33,7 +33,7 @@ I'm a frontend developer with proficiency in various technologies and essential 
 I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Nodejs**, **Django**. I am also comfortable using Typescript and React.
 
 <div align="center">
-      <a href="https://github.com/GabriellaHuzyk">
+      <a href="https://github.com/CiceroLucas">
           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CiceroLucas&show_icons=true&theme=dark"/>
           <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=compact&theme=dark"/>
     </a>
