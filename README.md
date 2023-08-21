@@ -3,7 +3,7 @@
 <h1 align="center"> Lucas Sousa </h1>
     
 <div align="center">
-<b>Systems Analyst and Developer | Front-End</b>
+<b>Systems Analyst and Developer</b>
 <br>
 <br>
 
