@@ -50,7 +50,7 @@ I have experience with Systems Development, Front-end, and Back-end web programm
 <p align="center">Data Skills</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql,redis" />
   </a>
 </p>
 
