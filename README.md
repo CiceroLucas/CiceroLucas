@@ -60,9 +60,15 @@ I have experience with Systems Development, Front-end, and Back-end web programm
     <img src="https://skillicons.dev/icons?i=fastapi,django,react,typescript,spring" />
   </a>
 </p>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroLucas&theme=dark">
+</div>
 </details>
 
 <br/>
+
+
 
 ---
 
