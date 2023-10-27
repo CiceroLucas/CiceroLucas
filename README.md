@@ -28,9 +28,9 @@
 
 Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
 
-I'm a developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. My passion for frontend is reflected in my ability to create engaging and user-friendly interfaces. I master **HTML**, **CSS**, and **JavaScript**, using these languages to bring to life attractive and responsive layouts that provide a consistent experience across different platforms and devices. I believe in the importance of uniting design and functionality, ensuring that users not only feel visually attracted but also have intuitive and smooth interactions.
+I'm a developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Nodejs**, **Django**. I am also comfortable using Typescript and React.
 
-I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Nodejs**, **Django**. I am also comfortable using Typescript and React.
+
 
 <div align="center">
       <a href="https://github.com/CiceroLucas">
