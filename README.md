@@ -57,7 +57,7 @@ I'm a developer with proficiency in various technologies and essential tools for
 <p align="center">Studying at this moment</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,react,typescript,spring" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,react,typescript,spring,nestjs" />
   </a>
 </p>
 
