@@ -28,7 +28,7 @@
 
 Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
 
-I'm a developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Typescript**, **Nodejs**, **Express**, **NestJS**. I am also comfortable using Typescript and React.
+I'm a developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Golang**, **Javascript**, **Typescript**, **Nodejs**, **Express**, **NestJS**. I am also comfortable using Typescript and React.
 
 
 
