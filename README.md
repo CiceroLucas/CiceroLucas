@@ -28,7 +28,7 @@
 
 Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
 
-👋 Hi, I'm a developer passionate about building high-performance and reliable web applications. I have experience in Systems Development, with solid skills in both Front-end and Back-end web programming.
+👋 Hi, I'm a developer passionate about building high-performance and reliable web applications. I have experience in Systems Development, with solid skills in Back-end web programming.
 
 🚀 My core tech stack includes:
 
