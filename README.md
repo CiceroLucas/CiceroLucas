@@ -28,7 +28,17 @@
 
 Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
 
-I'm a developer with proficiency in various technologies and essential tools for creating high-performance and functional web applications. I have experience with Systems Development, Front-end, and Back-end web programming. My main knowledge in technologies are **Golang**, **Javascript**, **Typescript**, **Nodejs**, **Express**, **NestJS**. I am also comfortable using Typescript and React.
+👋 Hi, I'm a developer passionate about building high-performance and reliable web applications. I have experience in Systems Development, with solid skills in both Front-end and Back-end web programming.
+
+🚀 My core tech stack includes:
+
+* Golang, JavaScript, TypeScript and Java
+
+* Node.js, Express, NestJS and Spring Boot
+
+Comfortable also working with Java and strongly typed environments
+
+🛠️ I work with modern tools and frameworks to deliver scalable and maintainable solutions, always aiming for clean code and good software architecture practices.
 
 
 
