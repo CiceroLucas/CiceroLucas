@@ -53,21 +53,21 @@ Comfortable also working with Java and strongly typed environments
 <p align="center">Main Skills</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=php,typescript,nestjs" />
   </a>
 </p>
 
 <p align="center">Data Skills</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql,mysql" />
   </a>
 </p>
 
 <p align="center">Studying at this moment</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,react,typescript,spring,nestjs" />
+    <img src="https://skillicons.dev/icons?i=golang,php,laravel" />
   </a>
 </p>
 
