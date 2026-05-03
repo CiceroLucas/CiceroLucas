@@ -6,10 +6,6 @@
   <b>Systems Analyst & Backend Developer</b>
 </p>
 
-<p align="center">
-  Passionate about turning ideas into scalable and reliable software solutions 🚀
-</p>
-
 ---
 
 ## 🌐 Connect with me
