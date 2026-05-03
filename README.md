@@ -1,88 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="center"> Lucas Sousa </h1>
-    
-<div align="center">
-<b>Systems Analyst and Developer</b>
-<br>
-<br>
+<h1 align="center">Lucas Sousa</h1>
 
-<blockquote>
-    <p><i>I am a person passionate about turning ideas into reality, combining technical skills and creativity.</i></p>
-</blockquote>
-</div>
+<p align="center">
+  <b>Systems Analyst & Backend Developer</b>
+</p>
 
-<div align="center">
-    <a href="https://www.instagram.com/lucassousa2099/">
-        <img src="https://img.shields.io/twitter/follow/lucassousa2099?style=social&logo=instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/lucas-sousa-410539271/">
-        <img src="https://img.shields.io/twitter/follow/lucas-sousa?style=social&logo=linkedin">
-    </a>
-</div>
-
-<details closed>
-<summary>About me 👈😊</summary>
+<p align="center">
+  Passionate about turning ideas into scalable and reliable software solutions 🚀
+</p>
 
 ---
 
-Hey there!! I am Lucas, aka [**@Lucas**](https://www.instagram.com/lucassousa2099/) :wave:😊
+## 🌐 Connect with me
 
-👋 Hi, I'm a developer passionate about building high-performance and reliable web applications. I have experience in Systems Development, with solid skills in Back-end web programming.
-
-🚀 My core tech stack includes:
-
-* Golang, JavaScript, TypeScript and Java
-
-* Node.js, Express, NestJS and Spring Boot
-
-Comfortable also working with Java and strongly typed environments
-
-🛠️ I work with modern tools and frameworks to deliver scalable and maintainable solutions, always aiming for clean code and good software architecture practices.
-
-
-
-<div align="center">
-      <a href="https://github.com/CiceroLucas">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CiceroLucas&show_icons=true&theme=dark"/>
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=compact&theme=dark"/>
-    </a>
-</div>
-
-</div>
-<p align="center">Main Skills</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,typescript,nestjs" />
+  <a href="https://www.instagram.com/lucassousa2099/">
+    <img src="https://img.shields.io/badge/Instagram-%40lucassousa2099-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-sousa-410539271/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Sousa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-<p align="center">Data Skills</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql,mysql" />
-  </a>
-</p>
+---
 
-<p align="center">Studying at this moment</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,php,laravel" />
-  </a>
-</p>
+## 👨‍💻 About Me
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CiceroLucas&theme=dark">
-</div>
-</details>
+Hey! I'm Lucas 👋  
 
-<br/>
+I'm a developer focused on building **high-performance**, **scalable**, and **maintainable backend applications**.
 
+💡 I enjoy transforming ideas into real-world solutions using clean architecture and best practices.
+
+- 🔧 Experience in Systems Development  
+- ⚙️ Strong focus on backend engineering  
+- 📈 Always improving code quality and system design  
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages
+- Golang
+- TypeScript / JavaScript
+- Java
+- PHP
+
+### ⚙️ Frameworks & Tools
+- Laravel
+- NestJS
+- Spring Boot
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+---
+
+## 📚 Currently Learning
+
+- Golang (advanced patterns & performance)
+- PHP (Laravel ecosystem)
+- Backend architecture & scalability
+
+---
 
 
 ---
 
-<div align="center">
-
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
