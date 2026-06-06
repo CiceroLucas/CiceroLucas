@@ -1,10 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="center">Lucas Sousa</h1>
+<img width="100%" src="img/Frame.png"/>
 
-<p align="center">
-  <b>Systems Analyst & Backend Developer</b>
-</p>
 
 ---
 
