@@ -8,15 +8,10 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/lucassousa2099/">
-    <img src="https://img.shields.io/badge/Instagram-%40lucassousa2099-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-sousa-410539271/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Sousa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://www.instagram.com/lucassousa2099/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-sousa-410539271/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:dev.lucassousabs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"></a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
