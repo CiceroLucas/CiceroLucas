@@ -57,6 +57,4 @@ I'm a developer focused on building **high-performance**, **scalable**, and **ma
 ---
 
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
