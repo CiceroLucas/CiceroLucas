@@ -56,5 +56,7 @@ I'm a developer focused on building **high-performance**, **scalable**, and **ma
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=pie)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
