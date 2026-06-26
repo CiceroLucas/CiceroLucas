@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="img/Banner.png"/>
+<img width="100%" src="img/banner.svg"/>
 
 
 ---
