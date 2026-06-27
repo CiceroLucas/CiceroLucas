@@ -55,5 +55,17 @@ I'm a developer focused on building **high-performance**, **scalable**, and **ma
 - Backend architecture & scalability
 
 ---
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=pie&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroLucas&layout=pie"
+      alt="Top Languages"
+    />
+  </picture>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d25df&height=100&section=footer"/>
