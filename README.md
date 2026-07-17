@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=6d25df"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=60a5fa"/>
 
 
 ---
@@ -68,4 +68,4 @@ I'm a developer focused on building **high-performance**, **scalable**, and **ma
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d25df&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=60a5fa&height=100&section=footer"/>
